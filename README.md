@@ -1,2 +1,2 @@
 # Netbeans-Java
-Estudos de Java com o Prof. Caio Malheiros, na Danki Code.
+Estudando JAVA e SWING com Netbeans na plataforma Danki Code, com o Prof. Caio Malheiros.
